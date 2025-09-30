@@ -66,7 +66,7 @@ git clone https://github.com/themaverick27/ridex.git
 
 ## 📞 Contact
 
-If you’d like to connect or collaborate, reach out via [LinkedIn](https://www.linkedin.com/in/aniweshkumar27/).
+If you’d like to connect or collaborate, reach out via [LinkedIn](https://www.linkedin.com/in/anutosh-dwivedi-b167a1255/).
 
 ---
 
