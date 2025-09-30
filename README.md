@@ -53,13 +53,13 @@ Clone the repo and open `index.html` in your browser:
 ### Linux/macOS
 
 ```bash
-sudo git clone https://github.com/themaverick27/ridex.git
+sudo git clone https://github.com/Anutosh-Dwivedi/ridex-website.git
 ```
 
 ### Windows
 
 ```bash
-git clone https://github.com/themaverick27/ridex.git
+git clone https://github.com/Anutosh-Dwivedi/ridex-website.git
 ```
 
 ---
